@@ -24,4 +24,8 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0016-3sum-closest) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
