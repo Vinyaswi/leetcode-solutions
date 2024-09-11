@@ -7,12 +7,14 @@
 | [0001-two-sum](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Two Pointers
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
@@ -28,6 +30,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0075-sort-colors) |
 ## Database
 |  |
