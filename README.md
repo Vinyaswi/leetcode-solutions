@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0018-4sum) |
+| [0035-search-insert-position](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
