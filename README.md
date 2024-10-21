@@ -18,6 +18,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0018-4sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
@@ -77,9 +78,14 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
