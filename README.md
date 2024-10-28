@@ -17,6 +17,7 @@
 | [0136-single-number](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1435-xor-queries-of-a-subarray) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,12 +34,14 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -46,6 +49,7 @@
 | [0018-4sum](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Database
 |  |
@@ -114,4 +118,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2586-longest-square-streak-in-an-array](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 <!---LeetCode Topics End-->
