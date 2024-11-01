@@ -44,6 +44,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Sorting
@@ -100,6 +101,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Sliding Window
 |  |
@@ -133,4 +135,12 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
