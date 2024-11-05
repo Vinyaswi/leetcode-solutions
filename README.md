@@ -107,6 +107,7 @@
 | [0812-rotate-string](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0812-rotate-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2580-circular-sentence](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2580-circular-sentence) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Sliding Window
 |  |
 | ------- |
