@@ -22,6 +22,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2554-minimum-total-distance-traveled](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Two Pointers
@@ -44,6 +45,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0066-plus-one) |
+| [2716-prime-subtraction-operation](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 ## Recursion
 |  |
 | ------- |
@@ -144,6 +147,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2716-prime-subtraction-operation](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -160,4 +164,8 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
