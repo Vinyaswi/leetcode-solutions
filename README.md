@@ -19,6 +19,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2145-grid-game](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2145-grid-game) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2465-shifting-letters-ii](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2465-shifting-letters-ii) |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1435-xor-queries-of-a-subarray) |
+| [2145-grid-game](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2145-grid-game) |
 | [2465-shifting-letters-ii](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2465-shifting-letters-ii) |
 ## Backtracking
 |  |
@@ -174,4 +176,8 @@
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
+## Matrix
+|  |
+| ------- |
+| [2145-grid-game](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2145-grid-game) |
 <!---LeetCode Topics End-->
