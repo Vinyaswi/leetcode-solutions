@@ -29,6 +29,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3429-special-array-i](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3429-special-array-i) |
 ## Two Pointers
 |  |
 | ------- |
