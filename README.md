@@ -26,6 +26,7 @@
 | [2145-grid-game](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2145-grid-game) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2465-shifting-letters-ii) |
 | [2554-minimum-total-distance-traveled](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -66,6 +67,7 @@
 | [1364-tuple-with-same-product](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Sorting
 |  |
@@ -99,6 +101,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0066-plus-one) |
+| [2448-count-number-of-bad-pairs](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 ## Recursion
 |  |
@@ -183,6 +186,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1364-tuple-with-same-product](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
 ## Number Theory
 |  |
 | ------- |
