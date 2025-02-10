@@ -141,6 +141,7 @@
 | [2465-shifting-letters-ii](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2465-shifting-letters-ii) |
 | [2580-circular-sentence](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3447-clear-digits](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3447-clear-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -211,4 +212,12 @@
 |  |
 | ------- |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3447-clear-digits) |
+## Simulation
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
