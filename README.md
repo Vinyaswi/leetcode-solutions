@@ -140,6 +140,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0812-rotate-string](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0812-rotate-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2465-shifting-letters-ii](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2465-shifting-letters-ii) |
 | [2580-circular-sentence](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -217,9 +218,11 @@
 ## Stack
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
