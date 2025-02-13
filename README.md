@@ -34,6 +34,7 @@
 | [2716-prime-subtraction-operation](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3429-special-array-i](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3429-special-array-i) |
@@ -227,9 +228,11 @@
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3447-clear-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 <!---LeetCode Topics End-->
