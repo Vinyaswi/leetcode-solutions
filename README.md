@@ -222,6 +222,7 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0155-min-stack) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3447-clear-digits) |
 ## Simulation
@@ -235,4 +236,8 @@
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
