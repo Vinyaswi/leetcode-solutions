@@ -16,6 +16,7 @@
 | [0075-sort-colors](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [1364-tuple-with-same-product](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
@@ -106,6 +107,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2448-count-number-of-bad-pairs](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 ## Recursion
@@ -222,6 +224,7 @@
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0155-min-stack) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3447-clear-digits) |
