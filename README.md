@@ -19,6 +19,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0739-daily-temperatures](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1364-tuple-with-same-product](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -226,6 +227,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3447-clear-digits) |
 ## Simulation
@@ -243,4 +245,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
