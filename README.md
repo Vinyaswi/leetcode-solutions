@@ -70,6 +70,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1364-tuple-with-same-product](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
@@ -146,6 +147,7 @@
 | [0125-valid-palindrome](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0812-rotate-string](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0812-rotate-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2465-shifting-letters-ii](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2465-shifting-letters-ii) |
@@ -156,6 +158,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## String Matching
 |  |
