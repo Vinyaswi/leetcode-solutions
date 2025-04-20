@@ -21,6 +21,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0739-daily-temperatures](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0797-rabbits-in-forest](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [1364-tuple-with-same-product](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1656-count-good-triplets](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1656-count-good-triplets) |
@@ -78,6 +79,7 @@
 | [0013-roman-to-integer](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0219-contains-duplicate-ii](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0797-rabbits-in-forest](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [1364-tuple-with-same-product](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -123,6 +125,7 @@
 | [0013-roman-to-integer](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0797-rabbits-in-forest](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
@@ -201,6 +204,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0797-rabbits-in-forest](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2716-prime-subtraction-operation](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 ## Dynamic Programming
