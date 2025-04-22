@@ -128,6 +128,7 @@
 | [0797-rabbits-in-forest](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2050-count-good-numbers) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 ## Recursion
@@ -212,6 +213,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2554-minimum-total-distance-traveled](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Queue
@@ -228,6 +230,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2716-prime-subtraction-operation](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 ## Matrix
 |  |
@@ -280,6 +283,7 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Enumeration
 |  |
 | ------- |
