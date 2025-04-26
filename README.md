@@ -35,6 +35,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2554-minimum-total-distance-traveled](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -183,6 +184,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## String Matching
 |  |
@@ -220,6 +222,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Counting
 |  |
 | ------- |
@@ -289,4 +292,8 @@
 | ------- |
 | [1656-count-good-triplets](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
