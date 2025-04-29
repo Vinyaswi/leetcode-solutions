@@ -42,6 +42,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -190,6 +191,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## String Matching
 |  |
