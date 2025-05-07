@@ -51,6 +51,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3429-special-array-i](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3429-special-array-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Two Pointers
 |  |
@@ -252,6 +253,7 @@
 |  |
 | ------- |
 | [2145-grid-game](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2145-grid-game) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Union Find
 |  |
 | ------- |
@@ -264,6 +266,7 @@
 |  |
 | ------- |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -288,6 +291,7 @@
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Design
 |  |
 | ------- |
@@ -311,4 +315,8 @@
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Shortest Path
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
