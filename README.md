@@ -141,6 +141,7 @@
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Recursion
 |  |
 | ------- |
@@ -188,6 +189,7 @@
 | [2580-circular-sentence](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3447-clear-digits](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3447-clear-digits) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -231,6 +233,7 @@
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2554-minimum-total-distance-traveled](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Queue
 |  |
 | ------- |
@@ -305,6 +308,7 @@
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Enumeration
 |  |
 | ------- |
