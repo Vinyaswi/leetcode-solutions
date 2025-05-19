@@ -50,6 +50,7 @@
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3321-type-of-triangle](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -117,6 +118,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3321-type-of-triangle](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3321-type-of-triangle) |
 ## Database
 |  |
 | ------- |
@@ -144,6 +146,7 @@
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
+| [3321-type-of-triangle](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Recursion
 |  |
