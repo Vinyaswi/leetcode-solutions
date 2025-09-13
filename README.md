@@ -25,6 +25,7 @@
 | [1293-three-consecutive-odds](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1293-three-consecutive-odds) |
 | [1364-tuple-with-same-product](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1656-count-good-triplets](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1656-count-good-triplets) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -170,6 +171,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2145-grid-game](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2145-grid-game) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2465-shifting-letters-ii) |
@@ -208,6 +210,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Vinyaswi/leetcode-solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
