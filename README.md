@@ -23,6 +23,7 @@
 | [0485-max-consecutive-ones](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0739-daily-temperatures](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0797-rabbits-in-forest](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
+| [1046-max-consecutive-ones-iii](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1293-three-consecutive-odds) |
 | [1364-tuple-with-same-product](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1435-xor-queries-of-a-subarray) |
@@ -80,6 +81,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1046-max-consecutive-ones-iii](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -171,6 +173,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2145-grid-game](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2145-grid-game) |
@@ -210,6 +213,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [1046-max-consecutive-ones-iii](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
