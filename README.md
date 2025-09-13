@@ -20,6 +20,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0485-max-consecutive-ones](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0739-daily-temperatures](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0797-rabbits-in-forest](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [1293-three-consecutive-odds](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1293-three-consecutive-odds) |
