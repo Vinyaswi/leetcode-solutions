@@ -30,6 +30,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1590-make-sum-divisible-by-p](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1656-count-good-triplets](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1656-count-good-triplets) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -108,6 +109,7 @@
 | [0797-rabbits-in-forest](https://github.com/Vinyaswi/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [1364-tuple-with-same-product](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1590-make-sum-divisible-by-p](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -187,6 +189,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1590-make-sum-divisible-by-p](https://github.com/Vinyaswi/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [2145-grid-game](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2145-grid-game) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/Vinyaswi/leetcode-solutions/tree/master/2465-shifting-letters-ii) |
